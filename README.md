@@ -17,6 +17,7 @@ At the end of the survey the participant must provide a real student number for 
 When the confirmation link is pressed, the feedback is published.
 
 Keywords: Maven, Spring MVC, Spring Auth, password encoder, bean validation, one-time url.
+
 PS. Forked from teacher's repo.
 
 Waiting for Your comments,
